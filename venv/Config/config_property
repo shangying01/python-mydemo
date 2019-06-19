@@ -1,0 +1,7 @@
+db.m.type=mysql
+db.m.host=54.222.177.176
+db.m.port=3306
+db.m.user=tamc
+db.m.passwd=Tamc@2018!
+db.m.databasename=tamc_longan_test
+db.m.charset=utf8
